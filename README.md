@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/LucasOliveiraDiasMarquesFerreira"><img width="80%" alt="oi, eu sou o lucas." src="./LO.png" /></a></p>
 
 <!--
 **LucasOliveiraDiasMarquesFerreira/LucasOliveiraDiasMarquesFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
